@@ -1,6 +1,6 @@
 # Titanic - Machine Learning from Disaster
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
+![Titanic](https://i.imgur.com/4qhUoh9.jpeg)
 
 ## Overview
 
