@@ -28,6 +28,8 @@ The dataset is provided by Kaggle and contains information about the passengers 
 3. **Download the dataset from Kaggle:**
    - Download `train.csv` and `test.csv` from the [competition page](https://www.kaggle.com/c/titanic/data).
    - Place them in the `input/` folder.
+  
+**Note**: Ensure that you run the Python scripts from the root folder of the repository (`Titanic-Machine-Learning-from-Disaster`). The scripts rely on relative paths to load data from the `input/` folder and save outputs.
 
 ## Data
 
