@@ -100,7 +100,7 @@ Potential improvements include:
     ```
 
 3. **Train Final Model and Make Predictions:**
-   - Modify `logreg.py` or use the approach outlined in `logistic_model.ipynb` to train on the full dataset and generate predictions.
+   - Modify `train_predict.py` or use the approach outlined in `logistic_model.ipynb` to train on the full dataset and generate predictions.
    - Submit the `submission.csv` file generated to Kaggle.
 
 ## Contributing
